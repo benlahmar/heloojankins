@@ -10,7 +10,7 @@ package habib.ben;
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("ello habib");
+		System.out.println("Hello habib");
 		
 	}
 }
